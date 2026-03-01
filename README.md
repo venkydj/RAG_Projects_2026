@@ -102,7 +102,8 @@ source venv/bin/activate
 Run:
 
 pip install -U pip
-
+pip install -r requirements.txt
+    (OR)
 pip install langchain
 pip install langchain-community
 pip install langchain-text-splitters
