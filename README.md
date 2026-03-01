@@ -180,7 +180,7 @@ PyPDF
 
 👨‍💻 Author
 
-Developed by: Venky
+Developed by: Venkataramana
 
 AI & Machine Learning Enthusiast
 Focused on RAG & LLM Systems
