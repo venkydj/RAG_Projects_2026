@@ -121,18 +121,24 @@ You should see llama3 in the list.
 
 Clone the repository from GitHub:
 
-git clone https://github.com/your-username/rag-pdf-chatbot.git
+git clone https://github.com/venkydj/RAG_Projects_2026.git
 
 Move into the project folder:
 
 cd rag-pdf-chatbot
-🐍 Step 5: Create a Virtual Environment (Recommended)
+
+Step 5: Create a Virtual Environment (Recommended)
 Windows
 python -m venv venv
+
 venv\Scripts\activate
+
 Mac / Linux
+
 python3 -m venv venv
+
 source venv/bin/activate
+
 📦 Step 6: Install Required Packages
 
 Install all required Python libraries:
