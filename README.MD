@@ -237,4 +237,4 @@ Study and learning tools
 
 👨‍💻 Author
 
-Developed as a Local AI RAG System for Document Intelligence.
+Venkataramana Podugu
